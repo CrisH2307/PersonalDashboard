@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Projcet Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with React App
+<br>
+The PersonalDashboard project is a web-based application that allows users to manage their daily tasks, track their progress, and view important information in one place. The dashboard is built using ReactJS, JS, CSS, and HTML, which allows for the creation of reusable UI components, styling, and interactivity. The dashboard includes a to-do list, a calendar, a weather widget, and a news feed, among other features. The project is built using responsive design, which means that it can be accessed on different devices and screen sizes. Overall, the PersonalDashboard project is a useful tool for individuals who want to stay organized and productive.
+
+<br>
+Date start: Feb 27th, 2023
+<br>
+Date finished: Sep 2nd, 2023
 
 ## Available Scripts
 
@@ -68,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
